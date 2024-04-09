@@ -1,0 +1,5 @@
+﻿  UnitTestZPZ.cpp
+D:\project 1\ZPZ\ZPZ\main.cpp(98,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\project 1\ZPZ\UnitTestZPZ\UnitTestZPZ.cpp(20,37): warning C4566: character represented by universal-character-name '\u2217' cannot be represented in the current code page (1251)
+     Creating library D:\project 1\ZPZ\x64\Debug\UnitTestZPZ.lib and object D:\project 1\ZPZ\x64\Debug\UnitTestZPZ.exp
+  UnitTestZPZ.vcxproj -> D:\project 1\ZPZ\x64\Debug\UnitTestZPZ.dll
